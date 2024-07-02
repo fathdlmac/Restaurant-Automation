@@ -1,0 +1,222 @@
+C:\Proje\Proje\bin\Debug\net6.0-windows\Proje.exe
+C:\Proje\Proje\bin\Debug\net6.0-windows\Proje.deps.json
+C:\Proje\Proje\bin\Debug\net6.0-windows\Proje.runtimeconfig.json
+C:\Proje\Proje\bin\Debug\net6.0-windows\Proje.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\Proje.pdb
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.AssemblyReference.cache
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.A_Main.resources
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.Login.resources
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.GenerateResource.cache
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.AssemblyInfoInputs.cache
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.AssemblyInfo.cs
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.CoreCompileInputs.cache
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.CopyComplete
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.dll
+C:\Proje\Proje\obj\Debug\net6.0-windows\refint\Proje.dll
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.pdb
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.genruntimeconfig.cache
+C:\Proje\Proje\obj\Debug\net6.0-windows\ref\Proje.dll
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.Kullanicilar.resources
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.Urunler.resources
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.Properties.Resources.resources
+C:\Proje\Proje\bin\Debug\net6.0-windows\Bunifu.Dataviz.WinForms.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.Management.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\Bunifu.Utils.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Proje\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.Masalar.resources
+C:\Proje\Proje\obj\Debug\net6.0-windows\Proje.Aktar.resources
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Proje.exe
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Proje.deps.json
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Proje.runtimeconfig.json
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Proje.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Proje.pdb
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Bunifu.Dataviz.WinForms.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Bunifu.Utils.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.csproj.AssemblyReference.cache
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.Aktar.resources
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.A_Main.resources
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.Kullanicilar.resources
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.Login.resources
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.Masalar.resources
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.Properties.Resources.resources
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.Urunler.resources
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.csproj.GenerateResource.cache
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.AssemblyInfoInputs.cache
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.AssemblyInfo.cs
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.csproj.CoreCompileInputs.cache
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.csproj.CopyComplete
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\refint\Proje.dll
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.pdb
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\Proje.genruntimeconfig.cache
+C:\Users\fathd\Desktop\222103502 Fatih Dilmac\Proje\obj\Debug\net6.0-windows\ref\Proje.dll

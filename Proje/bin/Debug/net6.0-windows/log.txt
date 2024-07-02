@@ -1,0 +1,1193 @@
+
+Log Entry : 17:41:48 4 Ocak 2023 Çarşamba
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 17:43:47 4 Ocak 2023 Çarşamba
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 17:46:44 4 Ocak 2023 Çarşamba
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 17:49:08 4 Ocak 2023 Çarşamba
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 17:49:12 4 Ocak 2023 Çarşamba
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 17:49:23 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa 3 Açıldı
+-------------------------------
+
+Log Entry : 17:51:17 4 Ocak 2023 Çarşamba
+  :
+  :User Girişi Yapıldı
+-------------------------------
+
+Log Entry : 17:51:22 4 Ocak 2023 Çarşamba
+  :
+  :user Masa 5 Açıldı
+-------------------------------
+
+Log Entry : 17:51:37 4 Ocak 2023 Çarşamba
+  :
+  :user Masa5 deki Ürünleri Masa7 e Aktardı
+-------------------------------
+
+Log Entry : 17:51:41 4 Ocak 2023 Çarşamba
+  :
+  :user Masa 5 Açıldı
+-------------------------------
+
+Log Entry : 18:37:10 4 Ocak 2023 Çarşamba
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 18:37:28 4 Ocak 2023 Çarşamba
+  :
+  :fatih Kullanıcı Ekleme Tablosu Açıldı
+-------------------------------
+
+Log Entry : 18:38:13 4 Ocak 2023 Çarşamba
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 18:39:05 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa 3 Açıldı
+-------------------------------
+
+Log Entry : 18:39:09 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa3 e 2'li Big King® Fırsatı Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:38:45 4 Ocak 2023 Çarşamba
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 19:38:45 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa 7 Açıldı
+-------------------------------
+
+Log Entry : 19:38:48 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa7 e Pro Gamer Big King® Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:38:50 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa7 e Benim Üçlüm
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:38:53 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa7 e Pro Gamer Tavuklu BBQ Deluxe Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:38:54 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa7 e Kral İkili
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:38:58 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa7 e Big King®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:38:59 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa7 e Double Whopper Jr.®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:39:43 4 Ocak 2023 Çarşamba
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 19:39:45 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 19:39:47 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa2 e Kral İkili
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:39:48 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa2 e Pro Gamer Tavuklu BBQ Deluxe Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:39:53 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa2 den Benim İkilim
+ Ürününü Sildi
+-------------------------------
+
+Log Entry : 19:39:54 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa2 den Kral İkili
+ Ürününü Sildi
+-------------------------------
+
+Log Entry : 19:39:55 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa2 den Pro Gamer Tavuklu BBQ Deluxe Menü
+ Ürününü Sildi
+-------------------------------
+
+Log Entry : 19:39:57 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa2 e Pro Gamer Big King® Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:39:58 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa2 e Kral İkili
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:40:00 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa2 den Kral İkili
+ Ürününü Sildi
+-------------------------------
+
+Log Entry : 19:40:05 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa2 deki Ürünleri Masa5 e Aktardı
+-------------------------------
+
+Log Entry : 19:40:08 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa5 e Big King®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 19:40:10 4 Ocak 2023 Çarşamba
+  :
+  :fatih Masa5 den Big King®
+ Ürününü Sildi
+-------------------------------
+
+Log Entry : 19:40:12 4 Ocak 2023 Çarşamba
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 19:40:38 4 Ocak 2023 Çarşamba
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 19:40:40 4 Ocak 2023 Çarşamba
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 19:41:05 4 Ocak 2023 Çarşamba
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 19:41:06 4 Ocak 2023 Çarşamba
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:31:21 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:31:22 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:31:29 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 1 Açıldı
+-------------------------------
+
+Log Entry : 20:31:54 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Kral Avantaj Menüsü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:31:54 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Benim İkilim
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:31:55 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Kral İkili
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:31:55 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Pro Gamer Big King® Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:31:56 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Pro Gamer Tavuklu BBQ Deluxe Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:31:57 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Benim Üçlüm
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:31:58 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Benim Dörtlüm
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:31:58 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e 2'li Big King® Fırsatı Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:32:13 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:32:14 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 1 Açıldı
+-------------------------------
+
+Log Entry : 20:33:44 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:33:45 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 1 Açıldı
+-------------------------------
+
+Log Entry : 20:33:47 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e 2li Big King® Fırsatı Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:48 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e 2li Whopper® Fırsatı Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:49 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e 3lü Whopper® Fırsatı Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:49 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Ulti Zero Menü Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:50 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Kids Hamburger Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:51 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Tavuklu Kids Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:51 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Kids Chicken Tenders® Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:51 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Kids Cheese Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:52 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Tavuklu Kids Cheese Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:53 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Angry Whopper®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:53 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Whopper®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:54 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Double Whopper Jr.®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:54 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Big King®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:54 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e King Beef Burger
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:55 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Whopper Jr.®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:56 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Double Whopper®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:56 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Double Big King®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:57 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Big King XXL®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:33:58 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Texas Smokehouse Burger®
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:00 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Çıtır Çıtır Atıştır
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:00 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Soğan Halkası (8li)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:00 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Soğan Halkası (12li)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:01 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e BK King Nuggets® (6lı)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:01 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e BK King Nuggets® (9lu)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:02 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Çıtır Peynir (4lü)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:03 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Çıtır Peynir (9lu)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:03 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Patates Kızartması (Küçük)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:04 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Patates Kızartması (Orta)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:04 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Patates Kızartması (Büyük)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:06 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Bkool® Böğürtlen Soslu
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:06 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Bkool® Çikolata Parçacıklı
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:07 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Bkool® Renkli Çikolata Drajeli
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:07 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Sundae (Sade)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:08 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Sundae (Çilek Soslu)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:08 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Sundae (Çikolata Soslu)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:09 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Sundae (Karamel Soslu)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:09 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Sundae (Böğürtlen Soslu)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:10 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Böğürtlenli Çikolatalı Pasta
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:10 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Brownie Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:11 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Çikolatalı Muffin
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:12 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Tiramisu Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:13 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Coca-Cola (33 cl.)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:13 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Coca - Cola Zero Sugar (33 cl.)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:14 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Fuse Tea Şeftali (33 cl.)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:14 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Fuse Tea Limon (33 cl.)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:15 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Sprite (33 cl.)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:15 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Fanta (33 cl.)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:16 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Coca-Cola (1 L.)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:16 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Coca - Cola Zero Sugar (1 L.)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:17 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Fuse Tea Limon (1 L.)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:17 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Fuse Tea Şeftali (1 L.)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:18 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Ayran (30 cl.)
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:18 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Su Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:22 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 deki Ödemeyi Tamamladı
+-------------------------------
+
+Log Entry : 20:34:24 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:34:34 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosuna deneme Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:34:40 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 1 Açıldı
+-------------------------------
+
+Log Entry : 20:34:46 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:35:23 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:35:24 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:35:33 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosuna deneme Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:35:45 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan deneme Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 20:35:56 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan deneme Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 20:36:06 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan deneme Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 20:36:12 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan deneme Ürünü Silindi
+-------------------------------
+
+Log Entry : 20:36:16 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan deneme Ürünü Silindi
+-------------------------------
+
+Log Entry : 20:36:23 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosuna deneme Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:36:27 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan deneme Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 20:36:31 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan deneme Ürünü Silindi
+-------------------------------
+
+Log Entry : 20:36:33 5 Ocak 2023 Perşembe
+  :
+  :fatih Kullanıcı Ekleme Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:36:39 5 Ocak 2023 Perşembe
+  :
+  :fatih user3 Kullanıcısını Ekledi
+-------------------------------
+
+Log Entry : 20:36:42 5 Ocak 2023 Perşembe
+  :
+  :fatih user3      Kullanıcısını Sildi
+-------------------------------
+
+Log Entry : 20:36:43 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 20:36:48 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 5 Açıldı
+-------------------------------
+
+Log Entry : 20:36:57 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa5 e Benim İkilim
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:36:59 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa5 deki Ürünleri Masa2 e Aktardı
+-------------------------------
+
+Log Entry : 20:37:01 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa2 deki Ödemeyi Tamamladı
+-------------------------------
+
+Log Entry : 20:41:14 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:41:15 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 1 Açıldı
+-------------------------------
+
+Log Entry : 20:41:17 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Benim İkilim
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:41:17 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Kral Avantaj Menüsü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:41:17 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Pro Gamer Big King® Menü
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:41:18 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 e Kral İkili
+ Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:41:19 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 den Pro Gamer Big King® Menü
+ Ürününü Sildi
+-------------------------------
+
+Log Entry : 20:41:19 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 den Kral Avantaj Menüsü
+ Ürününü Sildi
+-------------------------------
+
+Log Entry : 20:41:19 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 den Benim İkilim
+ Ürününü Sildi
+-------------------------------
+
+Log Entry : 20:41:20 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa1 den Kral İkili
+ Ürününü Sildi
+-------------------------------
+
+Log Entry : 20:41:21 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:42:13 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:42:14 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:42:32 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:42:33 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:47:03 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:47:04 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:47:09 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan Whopper® Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 20:47:11 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 20:47:13 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:47:47 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:47:48 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 1 Açıldı
+-------------------------------
+
+Log Entry : 20:48:00 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 20:48:45 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:48:45 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 20:48:48 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:49:08 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:49:09 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:49:14 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan Whopper® Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 20:49:15 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 20:49:47 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:49:48 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 20:49:50 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:51:46 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:51:46 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 1 Açıldı
+-------------------------------
+
+Log Entry : 20:51:51 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:52:29 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:52:30 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 1 Açıldı
+-------------------------------
+
+Log Entry : 20:54:37 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:54:38 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:54:42 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan Whopper® Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 20:54:43 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 3 Açıldı
+-------------------------------
+
+Log Entry : 20:54:47 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:57:59 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:57:59 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 20:58:03 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:58:07 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan Whopper® Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 20:58:09 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 20:58:13 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa2 e Benim İkilim Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:58:14 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa2 e Whopper® Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:58:15 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa2 den Whopper® Ürününü Sildi
+-------------------------------
+
+Log Entry : 20:58:15 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa2 den Benim İkilim Ürününü Sildi
+-------------------------------
+
+Log Entry : 20:58:16 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:58:29 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan Whopper® Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 20:58:30 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 20:58:32 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa2 e Whopper® Ürününü Ekledi
+-------------------------------
+
+Log Entry : 20:58:33 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa2 den Whopper® Ürününü Sildi
+-------------------------------
+
+Log Entry : 20:58:34 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:58:42 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan Whopper® Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 20:58:43 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 20:59:29 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 20:59:30 5 Ocak 2023 Perşembe
+  :
+  :fatih Kullanıcı Ekleme Tablosu Açıldı
+-------------------------------
+
+Log Entry : 20:59:32 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 4 Açıldı
+-------------------------------
+
+Log Entry : 20:59:36 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 21:14:26 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 21:14:27 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 21:14:37 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan Whopper® Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 21:14:44 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan Whopper® Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 21:14:58 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosuna deneme Ürününü Ekledi
+-------------------------------
+
+Log Entry : 21:15:01 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan deneme Ürünü Silindi
+-------------------------------
+
+Log Entry : 21:15:03 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 21:15:04 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa2 e Benim İkilim Ürününü Ekledi
+-------------------------------
+
+Log Entry : 21:15:05 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa2 den Benim İkilim Ürününü Sildi
+-------------------------------
+
+Log Entry : 21:15:08 5 Ocak 2023 Perşembe
+  :
+  :fatih Kullanıcı Ekleme Tablosu Açıldı
+-------------------------------
+
+Log Entry : 21:24:06 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 21:24:07 5 Ocak 2023 Perşembe
+  :
+  :fatih Masa 2 Açıldı
+-------------------------------
+
+Log Entry : 21:24:08 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 21:24:10 5 Ocak 2023 Perşembe
+  :
+  :fatih Kullanıcı Ekleme Tablosu Açıldı
+-------------------------------
+
+Log Entry : 22:03:54 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 22:03:55 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 22:05:24 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 22:05:25 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 22:05:43 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosuna asd Ürününü Ekledi
+-------------------------------
+
+Log Entry : 22:05:51 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan asd Ürünü Silindi
+-------------------------------
+
+Log Entry : 22:05:58 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosuna asd Ürününü Ekledi
+-------------------------------
+
+Log Entry : 22:06:03 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 22:07:16 5 Ocak 2023 Perşembe
+  :
+  :Admin Girişi Yapıldı
+-------------------------------
+
+Log Entry : 22:07:17 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosu Açıldı
+-------------------------------
+
+Log Entry : 22:07:27 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan asd Ürünü Güncellendi
+-------------------------------
+
+Log Entry : 22:07:32 5 Ocak 2023 Perşembe
+  :
+  :fatih Ürünler Tablosundan asd Ürünü Silindi
+-------------------------------
